@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: pull_request_template
+about: Create a report to help us improve
 title: ''
 labels: ''
 assignees: ''
